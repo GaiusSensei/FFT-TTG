@@ -1,5 +1,5 @@
 # Final Fantasy Tactics
-## The Tabletop Game
+_**The Tabletop Game**_
 
 ### Version History  
 v.0.1 - Initial Commit
